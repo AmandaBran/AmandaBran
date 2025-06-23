@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! me chamo Amanda Brandão👋🏻
 
 <!--
 **AmandaBran/AmandaBran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
